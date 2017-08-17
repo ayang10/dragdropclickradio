@@ -1,0 +1,14 @@
+{
+  "name": "dragdropclickradio",
+  "version": "1.0.0",
+  "description": "attempt for dragdropclick and stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Acer Yang",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
